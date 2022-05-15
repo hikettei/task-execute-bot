@@ -1,0 +1,17 @@
+file_path,input_txt,method,rate
+greeting+reply, こんにちは, B, 1
+parse_args+select_engine+search+reply, weblioでintrinsicallyの意味を調べて, B, 1
+parse_args+select_engine+search+reply, Googleで明日の天気予報を調べて, B, 1
+parse_args+get_memo_with_condition+reply_dm,明日の予定を重要なやつだけをDMで見せて,B,1
+get_simple_help+reply,使い方を教えて,B,1
+get_simple_help+reply_dm,使い方をDMで教えて,B,1
+get_simple_help+reply,どうやって使うの,B,1
+get_detailed_help+reply,詳しい使い方を教えて,B,1
+get_detailed_help+reply_dm,詳しい使い方をDMで教えて,B,1
+get_examples+reply, 使い方の例を教えてください, B, 1
+parse_args+register_memo+reply,塾へ行くを明日の予定に追加して,B,1
+parse_args+register_memo+reply,明日の予定に塾へ行くを追加して,B,1
+parse_args+delete_memo+reply,明日の予定を削除して,B,1
+delete_memo+reply,やっぱり消して,B,1
+parse_args+get_memo_with_condition+reply,明日の予定一覧を見せて,B,1
+greeting+reply, 今日はいい天気ですね、明日の予定一覧を忘れていた, B, 1
