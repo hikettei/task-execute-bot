@@ -1,0 +1,13 @@
+{
+	"instructions":[
+		"reply",
+		"reply_dm",
+		"send",
+		"merge",
+		"pushl",
+		"call_talk_api",
+		"push",
+		"input"
+	],
+	"dir":"./commands/"
+}
